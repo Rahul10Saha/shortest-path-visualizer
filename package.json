@@ -1,5 +1,6 @@
 {
   "name": "path-perceive",
+  "homepage": "https://rahul10saha.github.io/shortest-path-visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
